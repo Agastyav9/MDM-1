@@ -1,0 +1,130 @@
+img {
+    width: 300px;
+}
+
+body {
+    text-align: center;
+
+}
+
+#welcome {
+
+    padding: 70px 0;
+background-color:aquamarine;
+    text-align: center;
+}
+
+p {
+    max-width: 450px;
+    margin: 30px auto;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+#bio {
+    background-color: pink;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    left: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: dodgerblue;
+}
+
+#name {
+   font-family: 'Monoton', cursive; 
+}
+
+#achivements {
+    padding: 70px 0;
+    background-color: lavenderblush;
+    text-align: center;
+    
+}
+
+#about {
+    background-color: lavenderblush;
+}
+
+#ins {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+img hover {
+    transform: scale(0.9);
+}
+#insp {
+    background-color: aqua;
+}
+#work {
+    background-color: aquamarine;
+}
+
+#noo
+{
+    height: 200px;
+    width: 225px;
+}
+
+#you
+{
+    width: 100px;
+    height: 100px;
+}
+
+#tt
+{
+    width: 100px;
+    height: 100px;
+}
+
+#df
+{
+    width: 100px;
+    height: 100px;
+}
+
+#ins
+{
+    width: 100px;
+    height: 100px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: crimson;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#gaming 
+{
+    color:black;
+}
+
+
